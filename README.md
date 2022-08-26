@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dannisse
 - 👀 I’m interested in video game and software development
-- 🌱 I’m currently learning Python, C++, HTML, CSS, Java, C, C#
-- 💞️ I’m looking to collaborate on video game projects
-- 📫 How to reach me: TWITTER: @pmisojog
+- 🌱 I currently have 4 years of university experience with Python, C++, HTML, CSS, Java, C, C#
+- 💞️ I’m looking to collaborate on software development projects
 
 <!---
 dannisse/dannisse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
