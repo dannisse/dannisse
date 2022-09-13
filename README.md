@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dannisse
-- 👀 I’m interested in video game and software development
+- 👀 I’m interested in software development and engineering
 - 🌱 I currently have 4 years of university experience with Python, C++, HTML, CSS, Java, C, C#
 - 💞️ I’m looking to collaborate on software development projects
 
