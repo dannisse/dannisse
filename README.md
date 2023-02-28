@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannisse
 - 👀 I’m interested in software development and engineering
-- 🌱 I currently have 4 years of university experience with Python, C++, HTML, CSS, Java, C, C#
+- 🌱 I currently have 4 years of university experience with Python, C++, Java, C, C#, HTML, CSS
 - 💞️ I’m looking to find a position as an Entry-Level Software Engineer
 
 <!---
