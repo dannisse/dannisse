@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @dannisse
-- 👀 I’m interested in software development and engineering
-- 🌱 I currently have 4 years of university experience with Python, C++, Java, C, C#, HTML, CSS
-- 💞️ I’m looking to find a position as an Entry-Level Software Engineer
+- 👋 Hi, I’m Dannisse! 
+- 🎓 Bachelor of Science in Computer Science, minor in Mathematics from Old Dominion University.
+- 👀 I’m interested in software development and engineering.
+- 🌱 I currently have 4 years of university experience with Python, C++, Java, C, C#, HTML, CSS, and 2 years of mentorship experience with Swift.
+- 💞️ I’m looking to find a position as an Entry-Level Software Engineer.
 
 <!---
 dannisse/dannisse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
